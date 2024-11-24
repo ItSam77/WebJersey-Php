@@ -12,3 +12,5 @@ Pemilihan Metode Pembayaran: Berbagai metode pembayaran tersedia untuk kenyamana
 Manajemen Keranjang: Pengguna dapat menambahkan beberapa item ke keranjang mereka dan meninjau pesanan sebelum checkout.<br>
 Ringkasan Pesanan: Ringkasan pesanan yang detail dengan rincian semua item dan total biaya.<br>
 Notifikasi Admin: Setelah menyelesaikan pesanan, pengguna diinstruksikan untuk menghubungi admin untuk pemrosesan pembayaran.<br>
+
+study saja
