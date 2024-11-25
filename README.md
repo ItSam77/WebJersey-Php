@@ -1,4 +1,4 @@
-# WebJersey-Php
+  # WebJersey-Phps
 
 Aplikasi Web FCSV Custom Jersey dirancang untuk memberikan pengalaman yang mulus bagi pengguna dalam menyesuaikan dan memesan jersey. Aplikasi ini memungkinkan pengguna untuk memilih penjahit, memilih produk jasa, mengunggah file desain, menentukan kuantitas, dan memilih metode pembayaran. Selain itu, pengguna dapat mengelola keranjang mereka dan menyelesaikan pesanan dengan efisien.
 <br><br><br>
